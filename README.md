@@ -1,6 +1,6 @@
 # DDA
 
-Code for
+Code (cleaned version) for
 
     @inproceedings{dou19wngt,
     title = {Domain Differential Adaptation for Neural Machine Translation},
@@ -12,3 +12,5 @@ Code for
     }
 
 The code is based on OpenNMT-py (https://github.com/OpenNMT/OpenNMT-py).
+
+Detailed instructions will be out soon.
